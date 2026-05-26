@@ -1,8 +1,5 @@
 # ALTCHA for WordPress
 
-> [!TIP]
-> [ALTCHA Plugin version 2](https://altcha.org/docs/v2/wordpress/) is now available, offering improved protection and enhanced reliability. An upgrade is recommended for all users.
-
 **This repository is the reconstruction of the now retired offical ALTCHA plugin for WordPress version 1.**
 
 **For the new version 2/3, see [github.com/altcha-org/altcha-wordpress-next](https://github.com/altcha-org/altcha-wordpress-next) repository. However, it is no longer open source and some free features of the version 1 are now paid features.**
